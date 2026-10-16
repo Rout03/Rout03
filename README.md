@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=KAUSIK%20ROUT&fontSize=48&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descSize=18&descAlignY=58" width="100%" />
@@ -7,11 +8,6 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Kausik+Rout;MERN+Stack+Developer;Building+Modern+Web+Applications;Exploring+AI+Integration;Code.+Build.+Learn.+Repeat." alt="Typing SVG" />
 </a>
-
-<p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCIhUDRh6gOhUZNotlyIuRStnIzZg9SD1ygDI-fTZztA&s=10" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/rout03?label=Followers&style=for-the-badge&color=7C3AED" alt="GitHub followers" />
-</p>
 
 </div>
 
