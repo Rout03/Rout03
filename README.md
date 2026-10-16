@@ -9,7 +9,7 @@
 </a>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=rout03&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge" alt="Profile views" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCIhUDRh6gOhUZNotlyIuRStnIzZg9SD1ygDI-fTZztA&s=10" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/rout03?label=Followers&style=for-the-badge&color=7C3AED" alt="GitHub followers" />
 </p>
 
